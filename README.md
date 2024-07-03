@@ -1,4 +1,4 @@
-GitHub README
+
 Project Title: MySQL Data Copy and Clean Procedure
 
 Description:
